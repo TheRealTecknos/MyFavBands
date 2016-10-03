@@ -7,23 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		90C12BB31DA3169E0062830D /* AsILayDying.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C12BAB1DA3169E0062830D /* AsILayDying.jpg */; };
+		90C12BB41DA3169E0062830D /* AskingAlexandria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C12BAC1DA3169E0062830D /* AskingAlexandria.jpg */; };
+		90C12BB51DA3169E0062830D /* BreakingBenjamin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C12BAD1DA3169E0062830D /* BreakingBenjamin.jpg */; };
+		90C12BB61DA3169E0062830D /* FiveFingerDeathPunch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C12BAE1DA3169E0062830D /* FiveFingerDeathPunch.jpg */; };
+		90C12BB71DA3169E0062830D /* KillswitchEngage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C12BAF1DA3169E0062830D /* KillswitchEngage.jpg */; };
+		90C12BB81DA3169E0062830D /* LostHorizon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C12BB01DA3169E0062830D /* LostHorizon.jpg */; };
+		90C12BB91DA3169E0062830D /* OfMiceAndMen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C12BB11DA3169E0062830D /* OfMiceAndMen.jpg */; };
+		90C12BBA1DA3169E0062830D /* ParkwayDrive.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C12BB21DA3169E0062830D /* ParkwayDrive.jpg */; };
 		90D5044D1D99D5820079002E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D5044C1D99D5820079002E /* AppDelegate.swift */; };
 		90D5044F1D99D5820079002E /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D5044E1D99D5820079002E /* MasterViewController.swift */; };
 		90D504511D99D5820079002E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D504501D99D5820079002E /* DetailViewController.swift */; };
 		90D504541D99D5820079002E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90D504521D99D5820079002E /* Main.storyboard */; };
 		90D504561D99D5820079002E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90D504551D99D5820079002E /* Assets.xcassets */; };
 		90D504591D99D5820079002E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90D504571D99D5820079002E /* LaunchScreen.storyboard */; };
-		90D504641D99D6EB0079002E /* ofmiceandmen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D504621D99D6EB0079002E /* ofmiceandmen.jpg */; };
-		90D504651D99D6EB0079002E /* parkwaydrive.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D504631D99D6EB0079002E /* parkwaydrive.jpg */; };
-		90D5046C1D99D6F70079002E /* asilaydying.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D504661D99D6F70079002E /* asilaydying.jpg */; };
-		90D5046D1D99D6F70079002E /* AskingAlexandria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D504671D99D6F70079002E /* AskingAlexandria.jpg */; };
-		90D5046E1D99D6F70079002E /* BreakingBenjamin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D504681D99D6F70079002E /* BreakingBenjamin.jpg */; };
-		90D5046F1D99D6F70079002E /* FiveFingerDeathPunch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D504691D99D6F70079002E /* FiveFingerDeathPunch.jpg */; };
-		90D504701D99D6F70079002E /* KillswitchEngage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D5046A1D99D6F70079002E /* KillswitchEngage.jpg */; };
-		90D504711D99D6F70079002E /* LostHorizon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D5046B1D99D6F70079002E /* LostHorizon.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		90C12BAB1DA3169E0062830D /* AsILayDying.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AsILayDying.jpg; sourceTree = "<group>"; };
+		90C12BAC1DA3169E0062830D /* AskingAlexandria.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AskingAlexandria.jpg; sourceTree = "<group>"; };
+		90C12BAD1DA3169E0062830D /* BreakingBenjamin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BreakingBenjamin.jpg; sourceTree = "<group>"; };
+		90C12BAE1DA3169E0062830D /* FiveFingerDeathPunch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FiveFingerDeathPunch.jpg; sourceTree = "<group>"; };
+		90C12BAF1DA3169E0062830D /* KillswitchEngage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = KillswitchEngage.jpg; sourceTree = "<group>"; };
+		90C12BB01DA3169E0062830D /* LostHorizon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LostHorizon.jpg; sourceTree = "<group>"; };
+		90C12BB11DA3169E0062830D /* OfMiceAndMen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OfMiceAndMen.jpg; sourceTree = "<group>"; };
+		90C12BB21DA3169E0062830D /* ParkwayDrive.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ParkwayDrive.jpg; sourceTree = "<group>"; };
 		90D504491D99D5820079002E /* MyFavBands.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFavBands.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90D5044C1D99D5820079002E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90D5044E1D99D5820079002E /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -32,14 +40,6 @@
 		90D504551D99D5820079002E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90D504581D99D5820079002E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90D5045A1D99D5820079002E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		90D504621D99D6EB0079002E /* ofmiceandmen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ofmiceandmen.jpg; path = ../../ofmiceandmen.jpg; sourceTree = "<group>"; };
-		90D504631D99D6EB0079002E /* parkwaydrive.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkwaydrive.jpg; path = ../../parkwaydrive.jpg; sourceTree = "<group>"; };
-		90D504661D99D6F70079002E /* asilaydying.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = asilaydying.jpg; path = ../../asilaydying.jpg; sourceTree = "<group>"; };
-		90D504671D99D6F70079002E /* AskingAlexandria.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = AskingAlexandria.jpg; path = ../../AskingAlexandria.jpg; sourceTree = "<group>"; };
-		90D504681D99D6F70079002E /* BreakingBenjamin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BreakingBenjamin.jpg; path = ../../BreakingBenjamin.jpg; sourceTree = "<group>"; };
-		90D504691D99D6F70079002E /* FiveFingerDeathPunch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = FiveFingerDeathPunch.jpg; path = ../../FiveFingerDeathPunch.jpg; sourceTree = "<group>"; };
-		90D5046A1D99D6F70079002E /* KillswitchEngage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = KillswitchEngage.jpg; path = ../../KillswitchEngage.jpg; sourceTree = "<group>"; };
-		90D5046B1D99D6F70079002E /* LostHorizon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = LostHorizon.jpg; path = ../../LostHorizon.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +53,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		90C12BAA1DA3169E0062830D /* BandImages */ = {
+			isa = PBXGroup;
+			children = (
+				90C12BAB1DA3169E0062830D /* AsILayDying.jpg */,
+				90C12BAC1DA3169E0062830D /* AskingAlexandria.jpg */,
+				90C12BAD1DA3169E0062830D /* BreakingBenjamin.jpg */,
+				90C12BAE1DA3169E0062830D /* FiveFingerDeathPunch.jpg */,
+				90C12BAF1DA3169E0062830D /* KillswitchEngage.jpg */,
+				90C12BB01DA3169E0062830D /* LostHorizon.jpg */,
+				90C12BB11DA3169E0062830D /* OfMiceAndMen.jpg */,
+				90C12BB21DA3169E0062830D /* ParkwayDrive.jpg */,
+			);
+			path = BandImages;
+			sourceTree = "<group>";
+		};
 		90D504401D99D5820079002E = {
 			isa = PBXGroup;
 			children = (
@@ -72,7 +87,7 @@
 		90D5044B1D99D5820079002E /* MyFavBands */ = {
 			isa = PBXGroup;
 			children = (
-				90D504611D99D6CD0079002E /* images */,
+				90C12BAA1DA3169E0062830D /* BandImages */,
 				90D5044C1D99D5820079002E /* AppDelegate.swift */,
 				90D5044E1D99D5820079002E /* MasterViewController.swift */,
 				90D504501D99D5820079002E /* DetailViewController.swift */,
@@ -82,21 +97,6 @@
 				90D5045A1D99D5820079002E /* Info.plist */,
 			);
 			path = MyFavBands;
-			sourceTree = "<group>";
-		};
-		90D504611D99D6CD0079002E /* images */ = {
-			isa = PBXGroup;
-			children = (
-				90D504661D99D6F70079002E /* asilaydying.jpg */,
-				90D504671D99D6F70079002E /* AskingAlexandria.jpg */,
-				90D504681D99D6F70079002E /* BreakingBenjamin.jpg */,
-				90D504691D99D6F70079002E /* FiveFingerDeathPunch.jpg */,
-				90D5046A1D99D6F70079002E /* KillswitchEngage.jpg */,
-				90D5046B1D99D6F70079002E /* LostHorizon.jpg */,
-				90D504621D99D6EB0079002E /* ofmiceandmen.jpg */,
-				90D504631D99D6EB0079002E /* parkwaydrive.jpg */,
-			);
-			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -157,17 +157,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90D5046C1D99D6F70079002E /* asilaydying.jpg in Resources */,
-				90D5046D1D99D6F70079002E /* AskingAlexandria.jpg in Resources */,
-				90D5046E1D99D6F70079002E /* BreakingBenjamin.jpg in Resources */,
-				90D5046F1D99D6F70079002E /* FiveFingerDeathPunch.jpg in Resources */,
+				90C12BB71DA3169E0062830D /* KillswitchEngage.jpg in Resources */,
+				90C12BB41DA3169E0062830D /* AskingAlexandria.jpg in Resources */,
+				90C12BBA1DA3169E0062830D /* ParkwayDrive.jpg in Resources */,
+				90C12BB31DA3169E0062830D /* AsILayDying.jpg in Resources */,
 				90D504591D99D5820079002E /* LaunchScreen.storyboard in Resources */,
-				90D504641D99D6EB0079002E /* ofmiceandmen.jpg in Resources */,
+				90C12BB61DA3169E0062830D /* FiveFingerDeathPunch.jpg in Resources */,
 				90D504561D99D5820079002E /* Assets.xcassets in Resources */,
+				90C12BB81DA3169E0062830D /* LostHorizon.jpg in Resources */,
+				90C12BB51DA3169E0062830D /* BreakingBenjamin.jpg in Resources */,
 				90D504541D99D5820079002E /* Main.storyboard in Resources */,
-				90D504711D99D6F70079002E /* LostHorizon.jpg in Resources */,
-				90D504701D99D6F70079002E /* KillswitchEngage.jpg in Resources */,
-				90D504651D99D6EB0079002E /* parkwaydrive.jpg in Resources */,
+				90C12BB91DA3169E0062830D /* OfMiceAndMen.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -332,6 +332,7 @@
 				90D5045F1D99D5820079002E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

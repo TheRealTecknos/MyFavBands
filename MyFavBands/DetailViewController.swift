@@ -6,14 +6,15 @@ class DetailViewController: UIViewController {
     
     @IBOutlet weak var productImageView: UIImageView!
     
+    @IBOutlet weak var productImageView2: UIImageView!
+    
     var detailItem: AnyObject? {
         didSet {
-            self.configureView()
+            //self.configureView()
         }
     }
     
-    //Errors will start going away from MasterViewController
-    //3) Add didSet for productName
+   
     var productName: String? {
         didSet {
             
@@ -21,15 +22,13 @@ class DetailViewController: UIViewController {
     var productURL: NSString? {
         didSet {
             
-            self.configureView()
+            //self.configureView()
         }
     }
     
     func configureView() {
-        // Update the user interface for the detail item.
-        // Update image if detailItem has been passed a value from MasterViewController Seque
-        if let _: AnyObject = self.detailItem {
-            productImageView.image = UIImage(named:productURL! as String)
+       if let detail: AnyObject = self.detailItem {
+            productImageView2.image = UIImage(named:productURL! as String)
             
         }
     }
@@ -41,7 +40,7 @@ class DetailViewController: UIViewController {
         print("Product Name: \(productName)")
         if productName == nil
         {
-            productImageView.image = UIImage(named:"Main.png")
+            productImageView2.image = UIImage(named:"Main.png")
         }
         title = productName
         self.configureView()
